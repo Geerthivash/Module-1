@@ -21,6 +21,7 @@ To write a Python program for adding two complex numbers, and get the user input
 
 ## OUTPUT
 
+<img width="767" height="240" alt="image" src="https://github.com/user-attachments/assets/85b6c020-8a94-42ea-9309-1648612be9b4" />
 
 ## RESULT
 Thus the python program for  adding two complex numbers has been implemented and executed successfully.
