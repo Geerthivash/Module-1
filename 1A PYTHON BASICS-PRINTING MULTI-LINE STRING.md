@@ -34,4 +34,4 @@ print(string_double_quotes)
 
 
 ## RESULT
-
+Hence,This output verifies that the string is correctly printed in multiple lines,as expected ,using triple quotes
