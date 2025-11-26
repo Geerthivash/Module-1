@@ -30,5 +30,8 @@ print(string_double_quotes)
 ```
 ## OUTPUT
 
+<img width="939" height="324" alt="image" src="https://github.com/user-attachments/assets/7a677207-539d-4148-962a-c3909c21dabf" />
+
+
 ## RESULT
 
